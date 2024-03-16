@@ -1,0 +1,5 @@
+1. create react app using npm ande node.js so we have template
+2. next we create firebase firestore to get firebase config key
+3. use the key to get necessary imports
+4. initialize app using firebaseConfig ( const app = intiitalizeApp(firebaseConfig)  )
+5. export const db =  getFireStore(app)
